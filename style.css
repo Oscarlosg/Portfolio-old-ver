@@ -72,6 +72,10 @@ a:active {
   color:lightcyan;
 }
 
+hr {
+  border-top: 1px solid red;
+}
+
 /* footer styles8 */
 footer {
   background-color: black;
