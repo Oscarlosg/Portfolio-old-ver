@@ -1,0 +1,97 @@
+body {
+  background-image: url("images/prism.png");
+  margin: 0;
+}
+
+.text {
+  text-align: center;
+  position: relative;
+  color: white;
+  letter-spacing: 4px;
+}
+
+/*header classes*/
+.header-img {
+  padding-top: 50px;
+  width: 700px;
+  height: 700px;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  position: relative;
+}
+
+.header-text-1 {
+  font-family: Helvetica;
+  font-size: 70px;
+}
+
+.header-text-2 {
+  font-family: Futura;
+  font-size: 30px;
+  font-variant: small-caps;
+}
+
+/* Main styles */
+.about-me {
+  margin: 200px 70px 0 70px;
+}
+
+.list-parent-div {
+  display: flex;
+}
+
+.list-inner-div {
+  text-align: left;
+  margin: auto;
+  font-family: Helvetica;
+  font-size: 20px;
+  position: relative;
+  color: white;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 20px;
+  letter-spacing: 1px !important;
+}
+
+a {
+  color: #bdd9ff;
+}
+
+a:visited {
+  color: #597bab;
+}
+
+a:hover {
+  color:red;
+}
+
+a:active {
+  color:lightcyan;
+}
+
+/* footer styles8 */
+footer {
+  background-color: black;
+  height: 100px;
+  padding-top: 40px;
+}
+
+/* animations */
+#fadeUpAnimation {
+    animation-name: moveUp;
+    animation-duration: 2s;    
+}
+
+@keyframes moveUp {
+  0% {
+    opacity: 0;
+    top: 50px;
+  }
+  100% {
+   opacity: 1;
+    top: 0px;
+  }
+}
