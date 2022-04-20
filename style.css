@@ -14,8 +14,8 @@ body {
 /*header classes*/
 .header-img {
   padding-top: 50px;
-  width: 700px;
-  height: 700px;
+  width: 500px;
+  height: 500px;
   border-radius: 50%;
   display: block;
   margin: auto;
@@ -45,7 +45,7 @@ hr{
 }
 
 .about-me {
-  margin: 200px 70px 0 70px;
+  margin: 300px 70px 0 70px;
 }
 
 .list-parent-div {
