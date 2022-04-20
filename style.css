@@ -91,7 +91,7 @@ footer {
 }
 
 /* animations */
-#fadeUpAnimation {
+.fadeUpAnimation {
     animation-name: moveUp;
     animation-duration: 2s;    
 }
