@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello!
+
+thank you for checking my portofolio page!
+
+It is currently a work in progress and it will be getting big overhauls soon.
+
+Look forward to seeing it come to life in the future!
 
 <!--
 **Oscarlosg/Oscarlosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
