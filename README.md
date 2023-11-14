@@ -1,10 +1,10 @@
 Hello!
 
-thank you for checking my portfolio page!
+Thank you for checking my portfolio page!
 
 This was my first portfolio page. I was thinking of making it private but I decided against it. 
 
-This app will serve as an awesome reminder of how far I have come as a developer. 
+This app  serves as an awesome reminder of how far I have come as a developer. 
 
 If you are reading this, you are a cool person!
 
