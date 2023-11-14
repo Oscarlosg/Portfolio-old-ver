@@ -1,10 +1,12 @@
 Hello!
 
-thank you for checking my portofolio page!
+thank you for checking my portfolio page!
 
-It is currently a work in progress and it will be getting big overhauls soon.
+This was my first portfolio page. I was thinking of making it private but I decided against it. 
 
-Look forward to seeing it come to life in the future!
+This app will serve as an awesome reminder of how far I have come as a developer. 
+
+If you are reading this, you are a cool person!
 
 <!--
 **Oscarlosg/Oscarlosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
